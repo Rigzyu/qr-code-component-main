@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700&family=Outfit:wght@400;700&display=swap');
+
+body{
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+*{
+    font-family: 'Outfit', sans-serif;
+}
+.main-div{
+    background-color: white;
+    width: 22em;
+    height: 35em;
+    border-radius: 15px;
+}
+img{
+    border-radius: 20px;
+    width: 20em;
+    height: 21em;
+    padding: 15px 10px 10px 15px;
+}
+.write{
+    text-align: center;
+    margin-top: -10px;
+}
+h2{
+    padding: 0 20px;
+}
+p{
+    font-size: 15px;
+    padding: 0  42px;
+    color: hsl(220, 15%, 55%);
+}
+.attribution { 
+    font-size: 11px; 
+    text-align: center;
+}
+.attribution a {
+    color: hsl(228, 45%, 44%); 
+}
